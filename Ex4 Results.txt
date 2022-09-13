@@ -1,0 +1,20 @@
+No of Students:1
+No of Students:2
+No of Students:3
+
+Ionescu Ion
+10
+No of Students:3
+
+Popescu Pop
+7
+No of Students:3
+
+Georgescu George
+5
+No of Students:3
+
+Average Grade (call from Student() class): 7.3333335
+
+Verify Average from main:
+Average Grade (computed from Main): 7.3333335
